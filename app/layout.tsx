@@ -4,9 +4,12 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Kanishka Tharuka - Portfolio',
+  description: "Kanishka Tharuka's portfolio showcasing skills, projects, and contact information.",
   generator: 'v0.dev',
+  icons: {
+    icon: '/background.png',
+  }
 }
 
 export default function RootLayout({

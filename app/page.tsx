@@ -1,5 +1,5 @@
 'use client'
-
+import Head from 'next/head';
 import { useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Sun, Moon } from 'lucide-react'
@@ -41,6 +41,7 @@ export default function Portfolio() {
   }
 
   return (
+    <>
     <div className={`min-h-screen relative overflow-hidden ${isDark ? 'dark' : ''}`}>
       {/* Fixed Background Image */}
       <div 
@@ -108,5 +109,6 @@ export default function Portfolio() {
         </nav>
       </div>
     </div>
+    </>
   )
 }
