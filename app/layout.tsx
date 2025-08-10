@@ -8,7 +8,9 @@ export const metadata: Metadata = {
   description: "Kanishka Tharuka's portfolio showcasing skills, projects, and contact information.",
   generator: 'v0.dev',
   icons: {
-    icon: '/background.png',
+    icon: '/logo.png',
+    shortcut: '/logo.png',
+    apple: '/logo.png',
   }
 }
 
