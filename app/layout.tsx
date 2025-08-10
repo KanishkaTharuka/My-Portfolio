@@ -52,6 +52,7 @@ export default function RootLayout({ children }: PropsWithChildren) {
               "name": "Kanishka Tharuka",
               "url": "https://kanishka-tharuka-portfolio.netlify.app",
               "image": "https://kanishka-tharuka-portfolio.netlify.app/final3-01.png",
+              "logo": "https://kanishka-tharuka-portfolio.netlify.app/final3-01.png",
               "jobTitle": "Web Developer",
               "sameAs": [
                 "https://github.com/KanishkaTharuka",
