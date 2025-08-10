@@ -11,7 +11,14 @@ export const metadata: Metadata = {
     icon: '/final3-01.png',
     shortcut: '/final3-01.png',
     apple: '/final3-01.png',
-  }
+  },
+  keywords: ['Kanishka Tharuka', 'portfolio', 'web developer', 'projects', 'skills', 'contact', 'devops'],
+  authors: [{ name: 'Kanishka Tharuka' }],
+  image: 'https://kanishka-tharuka-portfolio.netlify.app/final3-01.png',
+  creator: 'Kanishka Tharuka',
+  viewport: 'width=device-width, initial-scale=1',
+  url: 'https://kanishka-tharuka-portfolio.netlify.app',
+  type: 'website',
 }
 
 export default function RootLayout({
