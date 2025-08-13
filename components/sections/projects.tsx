@@ -13,7 +13,7 @@ const projects = [
     description: "MERN stack application for managing stock and orders with real-time inventory tracking and automated reorder alerts.",
     image: "/inventary.png?height=200&width=300&text=Inventory+System",
     technologies: ["MongoDB", "Express", "React", "Node.js", "Docker", "Jenkins", "Tailwind"],
-    github: "#",
+    github: "https://github.com/KanishkaTharuka/Inventory-Supply-Chain-Management-System.git",
     demo: "#"
   },
   {
@@ -21,7 +21,7 @@ const projects = [
     description: "Breakdown system where customers report issues with location, and admins assign nearby drivers instantly",
     image: "/breakdown.png?height=200&width=300&text=Vehicle+Service",
     technologies: ["React", "Node.js", "MongoDB", "Express","Tailwind"],
-    github: "#",
+    github: "https://github.com/KanishkaTharuka/Vehicle-Service-Management-System.git",
     demo: "#"
   },
   {
@@ -29,7 +29,7 @@ const projects = [
     description: "Kotlin-based mobile application for tracking income and expenses with detailed analytics and budget planning.",
     image: "/finance.png?height=200&width=300&text=Finance+Tracker",
     technologies: ["Kotlin", "Android", "shared_preferences"],
-    github: "#",
+    github: "https://github.com/KanishkaTharuka/Personal-Finance-Tracker-mobile-application.git",
     demo: "#"
   }
   ,
@@ -38,7 +38,7 @@ const projects = [
     description: "Full-stack A platform where users can offer and exchange skills with others, promoting learning, collaboration, and community growth",
     image: "/skill.png?height=200&width=300&text=E-Commerce",
     technologies: ["React", "Node.js", "MongoDB", "Express", "Tailwind"],
-    github: "#",
+    github: "https://github.com/KanishkaTharuka/Community-Skill-Exchange-Platform1.git",
     demo: "#"
   },
   {
@@ -46,7 +46,7 @@ const projects = [
     description: "Taskly is a Kotlin-based mobile app featuring a clean UI and smooth navigation for managing daily tasks.",
     image: "/task.png?height=200&width=300&text=Task+Manager",
     technologies: ["Kotlin", "Android"],
-    github: "#",
+    github: "https://github.com/KanishkaTharuka/Taskly-mobile-app.git",
     demo: "#"
   }
 ]
